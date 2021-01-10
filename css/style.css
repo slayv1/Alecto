@@ -242,7 +242,7 @@ p {
     height: 650px;
 }
 
-.rslides2 img {
+.slide-content img {
     width: 100px;
     border-radius: 50%;
     display: inline-block;
